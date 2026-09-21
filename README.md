@@ -1,10 +1,14 @@
-### [Skripta](https://truepeak78.github.io/ag1)
+### [Skripta](https://matyas2004.github.io/mpi)
 
 ---
 
-### You can report any issues [**here**](https://github.com/truepeak78/ag1/issues/new)
+### You can report any issues [**here**](https://github.com/matyas2004/mpi/issues/new)
 
 ---
+
+### Fork note
+Design and inspiration taken from [ag1 skripta by TruePeak78](https://github.com/truepeak78/ag1) which deserves a 
+huge thank you
 
 ### Notes on reporting
 
@@ -43,4 +47,4 @@ You can also fix the issue yourself with a pull request
 1. Create a fork of the repository
 2. Fix the issue in your fork
     - please try to prefix all your commits with `fix: (commit message)` 
-4. Request merge to `main` branch of `truepeak78/ag1`
+4. Request merge to `main` branch of `matyas2004/mpi`

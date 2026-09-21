@@ -20,6 +20,7 @@
     --algorithmmini: #ec4899;
     --proof: #0d6efd;
     --text-color: #adb5bd;
+    --example: #9747ff
 }
 
 
@@ -140,6 +141,14 @@ p {
 
     &::after {
         content: '\f135';
+    }
+}
+
+.example > .admonition-title {
+    background: var(--example) !important;
+
+    &::after {
+        content: '\f7b6';
     }
 }
 

@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
-site_name: BI-AG1
+site_name: NI-MPI
 site_url: https://skripta.ag1.monster
-repo_name: truepeak78/ag1
-repo_url: https://github.com/truepeak78/ag1
+repo_name: matyas2004/mpi
+repo_url: https://github.com/matyas2004/mpi
 theme:
     name: material
     features:
@@ -69,9 +69,9 @@ plugins:
 extra:
     social:
           - icon: fontawesome/brands/git-alt
-            link: https://github.com/truepeak78/ag1
+            link: https://github.com/matyas2004/mpi
 
           - icon: material/bug
-            link: https://github.com/truepeak78/ag1/issues/new
+            link: https://github.com/matyas2004/mpi/issues/new
             name: Report an Issue
 
