@@ -66,6 +66,9 @@ extra_javascript:
 plugins:
     - search
 
+exclude:
+  - "ag1 docs - backup"
+
 extra:
     social:
           - icon: fontawesome/brands/git-alt
