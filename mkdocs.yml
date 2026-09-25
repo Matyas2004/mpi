@@ -66,8 +66,8 @@ extra_javascript:
 plugins:
     - search
 
-exclude:
-  - "ag1 docs - backup"
+exclude_docs: |
+  ag1 docs - backup/**
 
 extra:
     social:
