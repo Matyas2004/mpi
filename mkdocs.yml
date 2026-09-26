@@ -67,7 +67,7 @@ plugins:
     - search
 
 exclude_docs: |
-  /old_ag1_backup
+  /old_ag1_backup/
 
 extra:
     social:
